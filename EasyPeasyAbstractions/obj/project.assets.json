@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\damia\\OneDrive\\Documents\\GitHub\\EasyPeasy\\EasyPeasyAlgos\\EasyPeasyAlgos.csproj",
-      "projectName": "EasyPeasyAlgos",
-      "projectPath": "C:\\Users\\damia\\OneDrive\\Documents\\GitHub\\EasyPeasy\\EasyPeasyAlgos\\EasyPeasyAlgos.csproj",
+      "projectUniqueName": "C:\\Users\\damia\\OneDrive\\Documents\\GitHub\\EasyPeasy\\EasyPeasyAbstractions\\EasyPeasyAbstractions.csproj",
+      "projectName": "EasyPeasyAbstractions",
+      "projectPath": "C:\\Users\\damia\\OneDrive\\Documents\\GitHub\\EasyPeasy\\EasyPeasyAbstractions\\EasyPeasyAbstractions.csproj",
       "packagesPath": "C:\\Users\\damia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\damia\\OneDrive\\Documents\\GitHub\\EasyPeasy\\EasyPeasyAlgos\\obj\\",
+      "outputPath": "C:\\Users\\damia\\OneDrive\\Documents\\GitHub\\EasyPeasy\\EasyPeasyAbstractions\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

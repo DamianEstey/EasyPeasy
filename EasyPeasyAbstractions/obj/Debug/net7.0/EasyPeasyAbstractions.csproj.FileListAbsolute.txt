@@ -1,0 +1,4 @@
+C:\Users\damia\OneDrive\Documents\GitHub\EasyPeasy\EasyPeasyAbstractions\obj\Debug\net7.0\EasyPeasyAbstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damia\OneDrive\Documents\GitHub\EasyPeasy\EasyPeasyAbstractions\obj\Debug\net7.0\EasyPeasyAbstractions.AssemblyInfoInputs.cache
+C:\Users\damia\OneDrive\Documents\GitHub\EasyPeasy\EasyPeasyAbstractions\obj\Debug\net7.0\EasyPeasyAbstractions.AssemblyInfo.cs
+C:\Users\damia\OneDrive\Documents\GitHub\EasyPeasy\EasyPeasyAbstractions\obj\Debug\net7.0\EasyPeasyAbstractions.csproj.CoreCompileInputs.cache
