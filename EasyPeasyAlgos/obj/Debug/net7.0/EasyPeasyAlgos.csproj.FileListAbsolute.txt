@@ -1,0 +1,12 @@
+/workspaces/EasyPeasy/EasyPeasyAlgos/bin/Debug/net7.0/EasyPeasyAlgos.deps.json
+/workspaces/EasyPeasy/EasyPeasyAlgos/bin/Debug/net7.0/EasyPeasyAlgos.dll
+/workspaces/EasyPeasy/EasyPeasyAlgos/bin/Debug/net7.0/EasyPeasyAlgos.pdb
+/workspaces/EasyPeasy/EasyPeasyAlgos/obj/Debug/net7.0/EasyPeasyAlgos.csproj.AssemblyReference.cache
+/workspaces/EasyPeasy/EasyPeasyAlgos/obj/Debug/net7.0/EasyPeasyAlgos.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/EasyPeasy/EasyPeasyAlgos/obj/Debug/net7.0/EasyPeasyAlgos.AssemblyInfoInputs.cache
+/workspaces/EasyPeasy/EasyPeasyAlgos/obj/Debug/net7.0/EasyPeasyAlgos.AssemblyInfo.cs
+/workspaces/EasyPeasy/EasyPeasyAlgos/obj/Debug/net7.0/EasyPeasyAlgos.csproj.CoreCompileInputs.cache
+/workspaces/EasyPeasy/EasyPeasyAlgos/obj/Debug/net7.0/EasyPeasyAlgos.dll
+/workspaces/EasyPeasy/EasyPeasyAlgos/obj/Debug/net7.0/refint/EasyPeasyAlgos.dll
+/workspaces/EasyPeasy/EasyPeasyAlgos/obj/Debug/net7.0/EasyPeasyAlgos.pdb
+/workspaces/EasyPeasy/EasyPeasyAlgos/obj/Debug/net7.0/ref/EasyPeasyAlgos.dll
