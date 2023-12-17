@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\damia\\OneDrive\\Documents\\GitHub\\EasyPeasy\\EasyPeasyAbstractions\\EasyPeasyAbstractions.csproj": {}
+    "C:\\Users\\damia\\Source\\Repos\\DamianEstey\\EasyPeasy\\EasyPeasyAbstractions\\EasyPeasyAbstractions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\damia\\OneDrive\\Documents\\GitHub\\EasyPeasy\\EasyPeasyAbstractions\\EasyPeasyAbstractions.csproj": {
+    "C:\\Users\\damia\\Source\\Repos\\DamianEstey\\EasyPeasy\\EasyPeasyAbstractions\\EasyPeasyAbstractions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\damia\\OneDrive\\Documents\\GitHub\\EasyPeasy\\EasyPeasyAbstractions\\EasyPeasyAbstractions.csproj",
+        "projectUniqueName": "C:\\Users\\damia\\Source\\Repos\\DamianEstey\\EasyPeasy\\EasyPeasyAbstractions\\EasyPeasyAbstractions.csproj",
         "projectName": "EasyPeasyAbstractions",
-        "projectPath": "C:\\Users\\damia\\OneDrive\\Documents\\GitHub\\EasyPeasy\\EasyPeasyAbstractions\\EasyPeasyAbstractions.csproj",
+        "projectPath": "C:\\Users\\damia\\Source\\Repos\\DamianEstey\\EasyPeasy\\EasyPeasyAbstractions\\EasyPeasyAbstractions.csproj",
         "packagesPath": "C:\\Users\\damia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\damia\\OneDrive\\Documents\\GitHub\\EasyPeasy\\EasyPeasyAbstractions\\obj\\",
+        "outputPath": "C:\\Users\\damia\\Source\\Repos\\DamianEstey\\EasyPeasy\\EasyPeasyAbstractions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

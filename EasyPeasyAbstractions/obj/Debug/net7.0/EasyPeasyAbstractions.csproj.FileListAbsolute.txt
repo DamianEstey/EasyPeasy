@@ -2,3 +2,14 @@ C:\Users\damia\OneDrive\Documents\GitHub\EasyPeasy\EasyPeasyAbstractions\obj\Deb
 C:\Users\damia\OneDrive\Documents\GitHub\EasyPeasy\EasyPeasyAbstractions\obj\Debug\net7.0\EasyPeasyAbstractions.AssemblyInfoInputs.cache
 C:\Users\damia\OneDrive\Documents\GitHub\EasyPeasy\EasyPeasyAbstractions\obj\Debug\net7.0\EasyPeasyAbstractions.AssemblyInfo.cs
 C:\Users\damia\OneDrive\Documents\GitHub\EasyPeasy\EasyPeasyAbstractions\obj\Debug\net7.0\EasyPeasyAbstractions.csproj.CoreCompileInputs.cache
+C:\Users\damia\Source\Repos\DamianEstey\EasyPeasy\EasyPeasyAbstractions\bin\Debug\net7.0\EasyPeasyAbstractions.deps.json
+C:\Users\damia\Source\Repos\DamianEstey\EasyPeasy\EasyPeasyAbstractions\bin\Debug\net7.0\EasyPeasyAbstractions.dll
+C:\Users\damia\Source\Repos\DamianEstey\EasyPeasy\EasyPeasyAbstractions\bin\Debug\net7.0\EasyPeasyAbstractions.pdb
+C:\Users\damia\Source\Repos\DamianEstey\EasyPeasy\EasyPeasyAbstractions\obj\Debug\net7.0\EasyPeasyAbstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damia\Source\Repos\DamianEstey\EasyPeasy\EasyPeasyAbstractions\obj\Debug\net7.0\EasyPeasyAbstractions.AssemblyInfoInputs.cache
+C:\Users\damia\Source\Repos\DamianEstey\EasyPeasy\EasyPeasyAbstractions\obj\Debug\net7.0\EasyPeasyAbstractions.AssemblyInfo.cs
+C:\Users\damia\Source\Repos\DamianEstey\EasyPeasy\EasyPeasyAbstractions\obj\Debug\net7.0\EasyPeasyAbstractions.csproj.CoreCompileInputs.cache
+C:\Users\damia\Source\Repos\DamianEstey\EasyPeasy\EasyPeasyAbstractions\obj\Debug\net7.0\EasyPeasyAbstractions.dll
+C:\Users\damia\Source\Repos\DamianEstey\EasyPeasy\EasyPeasyAbstractions\obj\Debug\net7.0\refint\EasyPeasyAbstractions.dll
+C:\Users\damia\Source\Repos\DamianEstey\EasyPeasy\EasyPeasyAbstractions\obj\Debug\net7.0\EasyPeasyAbstractions.pdb
+C:\Users\damia\Source\Repos\DamianEstey\EasyPeasy\EasyPeasyAbstractions\obj\Debug\net7.0\ref\EasyPeasyAbstractions.dll
