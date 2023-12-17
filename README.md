@@ -4,3 +4,4 @@ A .NET library used for multiple utilities ranging from advanced sorting algorit
 Progress:
 
 - Sorting Algorithms [Bubble single or multi threaded, Quick single or multi thread],
+- Search Algorithms [Linear, Linear + Self Organizing, Binary or Binary recursively]
